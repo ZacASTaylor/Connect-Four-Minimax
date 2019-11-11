@@ -10,6 +10,5 @@
 
 
 
-### Code will be made public in April
 ### For now please email me for source code at zacharystroudtaylor AT cmail DOT carleton DOT ca
 
